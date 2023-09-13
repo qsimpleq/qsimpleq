@@ -19,7 +19,7 @@ About me
 ========
 
 * I have been working as a Perl developer for the last 11 years, but now I want to change my work stack to Ruby/Ruby on Rails, which I have been eyeing for a few years now.
-* I completed Hexlet's [Ruby on Rails Developer](https://ru.hexlet.io/programs/rails) training from May 24, 2023, to August 29, 2023.
+* I completed Hexlet's [Ruby on Rails Developer](https://ru.hexlet.io/programs/rails) training from May 24, 2023, to September 13, 2023.
 * Open to job suggestions
 * [CV](https://cv.hexlet.io/ru/resumes/3072)
 
