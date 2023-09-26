@@ -22,7 +22,7 @@ About me
 * I completed Hexlet's [Ruby on Rails Developer](https://ru.hexlet.io/programs/rails) training from May 24, 2023, to September 13, 2023.\
   <img src='https://github.com/qsimpleq/qsimpleq/assets/1532269/36f35f93-4a1a-4db7-a7bc-2401eb83ff4a' height=100>
 * Open to job suggestions
-* [CV](https://cv.hexlet.io/ru/resumes/3072)
+* [CV](https://career.habr.com/qsimpleq)
 
 ### Skills
 
