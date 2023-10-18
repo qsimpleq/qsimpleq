@@ -22,7 +22,7 @@ About me
 * I completed Hexlet's [Ruby on Rails Developer](https://ru.hexlet.io/programs/rails) training from May 24, 2023, to September 13, 2023.\
   <img src='https://github.com/qsimpleq/qsimpleq/assets/1532269/36f35f93-4a1a-4db7-a7bc-2401eb83ff4a' height=100>
 * Open to job suggestions
-* [CV pdf](./CV_Kirill_Babikhin.pdf) | [CV career.habr.com](https://career.habr.com/qsimpleq)
+* [CV pdf](https://github.com/qsimpleq/qsimpleq/raw/main/CV_Kirill_Babikhin.pdf) | [CV career.habr.com](https://career.habr.com/qsimpleq)
 
 ### Skills
 
