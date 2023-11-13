@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me
+<!-- About me
 ========
 
 * I have been working as a Perl developer for the last 11 years, but now I want to change my work stack to Ruby/Ruby on Rails, which I have been eyeing for a few years now.
 * I completed Hexlet's [Ruby on Rails Developer](https://ru.hexlet.io/programs/rails) training from May 24, 2023, to September 13, 2023.\
   <img src='https://github.com/qsimpleq/qsimpleq/assets/1532269/36f35f93-4a1a-4db7-a7bc-2401eb83ff4a' height=100>
 * Open to job suggestions
-* [CV pdf](https://github.com/qsimpleq/qsimpleq/raw/main/CV_Kirill_Babikhin.pdf) | [CV career.habr.com](https://career.habr.com/qsimpleq)
-
-### Skills
+* [CV pdf](https://github.com/qsimpleq/qsimpleq/raw/main/CV_Kirill_Babikhin.pdf) | [CV career.habr.com](https://career.habr.com/qsimpleq) -->
 
 <p align="left">
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
@@ -68,7 +66,7 @@ About me
   <a href="https://t.me/qsimpleq" target="_blank" rel="noreferrer">
     <picture>
       <img src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="32" height="32" />
-    </picture> 
+    </picture>
   </a>
 
 <!--   <a href="https://www.github.com/qsimpleq" target="_blank" rel="noreferrer">
@@ -76,15 +74,17 @@ About me
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture> 
+    </picture>
   </a> -->
   <a href="https://www.linkedin.com/in/qsimpleq" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture> 
-  </a> 
+    </picture>
+  </a>
 </p>
 
 [kirill.babikhin@gmail.com](mailto:kirill.babikhin@gmail.com)
+
+[CV pdf](https://github.com/qsimpleq/qsimpleq/raw/main/CV_Kirill_Babikhin.pdf) | [CV career.habr.com](https://career.habr.com/qsimpleq)
