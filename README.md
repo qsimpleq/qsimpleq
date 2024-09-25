@@ -87,4 +87,4 @@ Here are some ideas to get you started:
 
 [kirill.babikhin@gmail.com](mailto:kirill.babikhin@gmail.com)
 
-<a href="https://github.com/qsimpleq/qsimpleq/raw/main/CV_Kirill_Babikhin.pdf" target="_blank">CV pdf</a> | [CV career.habr.com](https://career.habr.com/qsimpleq)
+[CV career.habr.com](https://career.habr.com/qsimpleq)
